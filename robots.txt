@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /hit/
+Allow: /v/*.png
+Disallow: /v/
 
 Sitemap: https://folsomsinglestoryhomes.com/sitemap.xml
